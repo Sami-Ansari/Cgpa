@@ -15,7 +15,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "CGPA Calculator",
-  description: "Created by Sami",
+  description: "Created by M.Sami Ansari",
 };
 
 export default function RootLayout({
